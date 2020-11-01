@@ -5,4 +5,4 @@ services:
         tags:
             - { name: event.listener }
         arguments:
-            - @user
+            - '@user'
